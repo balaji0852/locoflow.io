@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Locoflow</string>
+    <string name="phone">mobile number</string>
+    <string name="login">login</string>
+    <string name="otp">6-digit OTP</string>
+    <string name="submit">submit</string>
+    <string name="item">item</string>
+</resources>

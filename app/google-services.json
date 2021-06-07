@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "803902682089",
+    "project_id": "locoflow-6b985",
+    "storage_bucket": "locoflow-6b985.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803902682089:android:b9a8e4e0b1f7ea33ff9178",
+        "android_client_info": {
+          "package_name": "com.example.locoflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803902682089-qeu0v94jfvbgalgb1utu2b22q3ev6b1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.locoflow",
+            "certificate_hash": "667f24bf0f3f83a5b9fbeb204075e921794f6a20"
+          }
+        },
+        {
+          "client_id": "803902682089-3361b7b8690tqr7irs1mm2qaq4gdaqap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtgLWRWH1WLCWcBpwsQJT8H1yrRZ6bRxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803902682089-3361b7b8690tqr7irs1mm2qaq4gdaqap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

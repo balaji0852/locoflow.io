@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".otpActivity">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="125dp">
+
+        <EditText
+            android:id="@+id/otpEditText"
+            android:layout_width="250dp"
+            android:hint="@string/otp"
+            android:textColor="@color/black"
+            android:layout_centerVertical="true"
+            android:layout_alignParentTop="true"
+            android:textAlignment="center"
+            android:background="@drawable/edittext_background"
+            android:textSize="20sp"
+            android:inputType="phone"
+            android:maxLength="6"
+            android:layout_height="50dp"/>
+
+        <Button
+            android:id="@+id/submitButton"
+            android:theme="@style/AppThemeButton"
+            android:text="@string/submit"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="75dp"
+            android:layout_width="100dp"
+            android:textAllCaps="false"
+            android:layout_height="50dp" />
+
+    </RelativeLayout>
+
+</RelativeLayout>
